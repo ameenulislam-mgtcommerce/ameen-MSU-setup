@@ -1,0 +1,771 @@
+[2024-02-16T10:15:04.431064+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-16T10:15:04.446578+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-16T10:15:04.446806+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-16T10:15:04.446881+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-16T10:15:04.446937+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-16T10:15:04.446987+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-16T10:15:04.447038+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-16T10:15:04.447086+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-16T10:15:04.447133+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-16T10:15:04.447194+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-16T10:15:04.447255+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-16T10:15:04.447303+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-16T10:15:04.447361+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-16T10:15:04.447410+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-16T10:15:04.447467+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-16T10:15:04.447516+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-16T10:15:04.447563+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-16T10:15:04.447609+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-16T10:15:04.447675+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-16T10:15:04.447723+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-16T10:15:04.447783+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-16T10:15:04.447831+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-16T10:15:04.447878+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-16T10:15:04.447924+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-16T10:15:04.447972+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-16T10:15:04.448030+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-16T10:15:04.448078+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-16T10:15:04.448125+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-16T10:15:04.448171+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-16T10:15:04.448228+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-16T10:15:04.448288+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-16T10:15:04.448335+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-16T10:15:04.448382+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-16T10:15:04.448428+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-16T10:15:04.448476+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-16T10:15:04.448542+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-16T10:15:04.448613+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-16T10:15:04.448682+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-16T10:15:04.448732+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-16T10:15:04.448779+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-16T10:15:04.448839+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-16T10:15:04.448887+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-16T10:15:04.448945+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-16T10:15:04.448993+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-16T10:15:04.449050+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-16T10:15:04.449098+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-16T10:15:04.449154+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-16T10:15:04.449203+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-16T10:15:04.449259+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-16T10:15:04.449307+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-16T10:15:04.449364+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-16T10:15:04.449411+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-16T10:15:04.449467+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-16T10:15:04.449533+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-16T10:15:04.449583+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-16T10:15:04.449629+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-16T10:15:04.449676+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-16T10:15:04.449723+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-16T10:15:04.449770+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-16T10:15:04.449817+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-16T10:15:04.449874+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-16T10:15:04.449932+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-16T10:15:04.449979+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-16T10:15:04.450036+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-16T10:15:04.450093+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-16T10:15:04.450141+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-16T10:15:04.450187+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-16T10:15:04.450243+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-16T10:15:04.450291+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-16T10:15:04.450344+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-16T10:15:04.450401+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-16T10:15:04.450449+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-16T10:15:04.450495+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-16T10:15:04.450542+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-16T10:15:04.450589+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-16T10:15:04.450880+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-16T10:15:04.450946+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-16T10:15:04.450995+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-16T10:15:04.451042+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-16T10:15:04.451090+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-16T10:15:04.451136+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-16T10:15:04.451198+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-16T10:15:04.451246+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-16T10:15:04.451472+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-16T10:15:04.451524+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-16T10:15:04.451571+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-16T10:15:04.451749+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-16T10:15:04.451806+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-16T10:15:04.451854+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-16T10:15:04.451925+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-16T10:15:04.451976+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-16T10:15:04.452023+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-16T10:15:04.452069+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-16T10:15:04.452282+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-16T10:15:04.452361+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-16T10:15:04.452412+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-16T10:15:04.452460+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-16T10:15:04.452508+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-16T10:15:04.452556+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-16T10:15:04.452626+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-16T10:15:04.452677+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-16T10:15:04.452725+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-16T10:15:04.452782+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-16T10:15:04.452829+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-16T10:15:04.452877+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-16T10:15:04.453703+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-16T10:15:04.453758+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-16T10:15:04.453809+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-16T10:15:04.453881+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-16T10:15:04.453932+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-16T10:15:04.453980+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-16T10:15:04.454257+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-16T10:15:04.454315+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-16T10:15:04.454365+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-16T10:15:04.454413+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-16T10:15:04.454473+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-16T10:15:04.454523+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-16T10:15:04.454570+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-16T10:15:04.454641+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-16T10:15:04.455134+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-16T10:15:04.455196+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-16T10:15:04.455259+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-16T10:15:04.455308+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-16T10:15:04.455356+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-16T10:15:04.455405+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-16T10:17:37.043670+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-02-16T10:18:53.485189+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 72.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 72.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% < 1 sec 74.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% < 1 sec 74.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 19 secs 108.0 MiB
+Service data attributes generation... 2/9 [======>---------------------]  22% 19 secs 108.0 MiB
+Service data attributes generation... 3/9 [=========>------------------]  33% 19 secs 108.0 MiB
+Application code generator... 3/9 [=========>------------------]  33% 19 secs 108.0 MiB
+Application code generator... 4/9 [============>---------------]  44% 31 secs 120.0 MiB
+Interceptors generation... 4/9 [============>---------------]  44% 31 secs 120.0 MiB
+Interceptors generation... 5/9 [===============>------------]  55% 48 secs 154.0 MiB
+Area configuration aggregation... 5/9 [===============>------------]  55% 48 secs 154.0 MiB
+Area configuration aggregation... 6/9 [==================>---------]  66% 54 secs 254.0 MiB
+Interception cache generation... 6/9 [==================>---------]  66% 54 secs 254.0 MiB
+Interception cache generation... 7/9 [=====================>------]  77% 1 min 252.0 MiB
+App action list generation... 7/9 [=====================>------]  77% 1 min 252.0 MiB
+App action list generation... 8/9 [========================>---]  88% 1 min 252.0 MiB
+Plugin list generation... 8/9 [========================>---]  88% 1 min 252.0 MiB
+Plugin list generation... 9/9 [============================] 100% 1 min 252.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-02-16T10:18:57.088293+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-02-16T10:19:23.297612+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento setup:static-content:deploy -f en_US 2>&1
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2182              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            185/2182            ==>------------------------- 8%     1 sec
+[1A[2Kfrontend/Magento/blank/en_US            812/2182            ==========>----------------- 37%    2 secs
+[1A[2Kfrontend/Magento/blank/en_US            1825/2182           =======================>---- 83%    3 secs
+[1A[2Kfrontend/Magento/blank/en_US            2101/2182           ==========================>- 96%    4 secs
+[1A[2Kfrontend/Magento/blank/en_US            2103/2182           ==========================>- 96%    6 secs
+[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         395/2881            ===>------------------------ 13%    1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1330/2881           ============>--------------- 46%    2 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2364/2881           ======================>----- 82%    3 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2731/2881           ==========================>- 94%    7 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2746/2881           ==========================>- 95%    8 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             802/2198            ==========>----------------- 36%    1 sec
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2098/2198           ==========================>- 95%    2 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2101/2198           ==========================>- 95%    3 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2103/2198           ==========================>- 95%    5 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2104/2198           ==========================>- 95%    6 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2198/2198           ============================ 100%   6 secs
+
+Execution time: 24.029479026794 [] []
+[2024-02-16T10:19:36.407058+00:00] main.INFO: crontab -l 2>/dev/null 2>&1
+15 4 * * * php7.3 /home/clp-agent/htdocs/bin/console.php clp-agent:database-backup --backupRetentionPeriod=7 &> /dev/null
+5 0 * * * /etc/init.d/rsyslog restart &> /dev/null
+10 0 * * * chmod -R 755 /var/log/ &> /dev/null
+0 3 * * * certbot renew --post-hook "systemctl reload nginx" [] []
+[2024-02-16T10:19:36.409537+00:00] main.INFO: crontab -l 2>/dev/null 2>&1
+15 4 * * * php7.3 /home/clp-agent/htdocs/bin/console.php clp-agent:database-backup --backupRetentionPeriod=7 &> /dev/null
+5 0 * * * /etc/init.d/rsyslog restart &> /dev/null
+10 0 * * * chmod -R 755 /var/log/ &> /dev/null
+0 3 * * * certbot renew --post-hook "systemctl reload nginx" [] []
+[2024-02-16T10:19:36.417354+00:00] main.INFO: echo "15 4 * * * php7.3 /home/clp-agent/htdocs/bin/console.php clp-agent:database-backup --backupRetentionPeriod=7 &> /dev/null
+5 0 * * * /etc/init.d/rsyslog restart &> /dev/null
+10 0 * * * chmod -R 755 /var/log/ &> /dev/null
+0 3 * * * certbot renew --post-hook \"systemctl reload nginx\"
+#~ MAGENTO START eb8af31c4c3439421fbbe5070c805613889ae87d3e8ac8ddcbbec4a00ac6e56c
+* * * * * /usr/bin/php8.2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento cron:run 2>&1 | grep -v \"Ran jobs by schedule\" >> /home/cloudpanel/htdocs/ameen.mgtcommerce.com/var/log/magento.cron.log
+#~ MAGENTO END eb8af31c4c3439421fbbe5070c805613889ae87d3e8ac8ddcbbec4a00ac6e56c
+" 2>&1 | crontab - 2>&1
+ [] []
+[2024-02-16T10:46:32.654367+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-16T10:46:32.661898+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-16T10:46:32.662062+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-16T10:46:32.662122+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-16T10:46:32.662163+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-16T10:46:32.662199+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-16T10:46:32.662235+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-16T10:46:32.662271+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-16T10:46:32.662307+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-16T10:46:32.662348+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-16T10:46:32.662388+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-16T10:46:32.662423+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-16T10:46:32.662481+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-16T10:46:32.662518+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-16T10:46:32.662560+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-16T10:46:32.662667+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-16T10:46:32.662708+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-16T10:46:32.662743+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-16T10:46:32.662778+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-16T10:46:32.662812+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-16T10:46:32.662854+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-16T10:46:32.662889+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-16T10:46:32.662923+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-16T10:46:32.662957+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-16T10:46:32.662991+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-16T10:46:32.663030+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-16T10:46:32.663065+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-16T10:46:32.663098+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-16T10:46:32.663131+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-16T10:46:32.663170+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-16T10:46:32.663204+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-16T10:46:32.663239+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-16T10:46:32.663275+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-16T10:46:32.663309+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-16T10:46:32.663342+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-16T10:46:32.663381+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-16T10:46:32.663416+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-16T10:46:32.663449+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-16T10:46:32.663511+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-16T10:46:32.663552+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-16T10:46:32.663600+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-16T10:46:32.663636+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-16T10:46:32.663677+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-16T10:46:32.663717+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-16T10:46:32.663752+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-16T10:46:32.663786+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-16T10:46:32.663824+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-16T10:46:32.663866+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-16T10:46:32.663908+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-16T10:46:32.663947+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-16T10:46:32.663982+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-16T10:46:32.664016+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-16T10:46:32.664050+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-16T10:46:32.664083+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-16T10:46:32.664118+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-16T10:46:32.664152+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-16T10:46:32.664191+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-16T10:46:32.664233+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-16T10:46:32.664273+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-16T10:46:32.664314+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-16T10:46:32.664349+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-16T10:46:32.664383+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-16T10:46:32.664422+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-16T10:46:32.664456+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-16T10:46:32.664491+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-16T10:46:32.664530+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-16T10:46:32.664569+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-16T10:46:32.664604+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-16T10:46:32.664644+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-16T10:46:32.664678+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-16T10:46:32.664711+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-16T10:46:32.664750+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-16T10:46:32.664785+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-16T10:46:32.664818+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-16T10:46:32.664857+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-16T10:46:32.664912+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-16T10:46:32.664947+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-16T10:46:32.664980+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-16T10:46:32.665014+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-16T10:46:32.665057+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-16T10:46:32.665093+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-16T10:46:32.665137+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-16T10:46:32.665172+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-16T10:46:32.665206+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-16T10:46:32.665240+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-16T10:46:32.665279+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-16T10:46:32.665313+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-16T10:46:32.665349+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-16T10:46:32.665383+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-16T10:46:32.665416+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-16T10:46:32.665450+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-16T10:46:32.665484+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-16T10:46:32.665517+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-16T10:46:32.665555+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-16T10:46:32.665588+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-16T10:46:32.665621+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-16T10:46:32.665655+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-16T10:46:32.665693+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-16T10:46:32.665726+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-16T10:46:32.665760+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-16T10:46:32.665793+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-16T10:46:32.665827+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-16T10:46:32.665860+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-16T10:46:32.665894+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-16T10:46:32.665927+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-16T10:46:32.665961+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-16T10:46:32.665994+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-16T10:46:32.666028+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-16T10:46:32.666061+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-16T10:46:32.666095+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-16T10:46:32.666128+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-16T10:46:32.666167+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-16T10:46:32.666200+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-16T10:46:32.666239+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-16T10:46:32.666277+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-16T10:46:32.666311+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-16T10:46:32.666346+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-16T10:46:32.666380+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-16T10:46:32.666414+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-16T10:46:32.666452+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-16T10:46:32.666486+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-16T10:46:32.666523+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-16T10:46:32.666557+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-16T10:46:32.666590+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-16T10:46:32.666653+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-16T11:00:03.694226+00:00] main.INFO: Request token zbbsgh6slxvzn9ublsse5356fbwu11iu was exchanged to obtain access token for consumer 1 [] []
+[2024-02-16T11:00:04.018566+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"Handshake request failed."}. Content-Type: application/json; charset=UTF-8 [] []
+[2024-02-16T12:00:03.597609+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"Handshake request failed."}. Content-Type: application/json; charset=UTF-8 [] []
+[2024-02-16T13:00:03.443636+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"Handshake request failed."}. Content-Type: application/json; charset=UTF-8 [] []
+[2024-02-19T09:51:02.185340+00:00] main.ERROR: Connection to Redis tcp://ameen-cache.4cruoe.ng.0001.use1.cache.amazonaws.com:6379 failed after 11 failures.Last Error : (1) Connection timed out [] []
+[2024-02-19T09:51:57.928212+00:00] main.ERROR: Connection to Redis tcp://ameen-cache.4cruoe.ng.0001.use1.cache.amazonaws.com:6379 failed after 11 failures.Last Error : (1) Connection timed out [] []
+[2024-02-19T10:58:24.302311+00:00] main.ERROR: Connection to Redis tcp://ameen-cache.4cruoe.ng.0001.use1.cache.amazonaws.com:6379 failed after 11 failures.Last Error : (1) Connection timed out [] []
+[2024-02-19T11:49:52.183830+00:00] main.ERROR: Connection to Redis tcp://ameen-cache.4cruoe.ng.0001.use1.cache.amazonaws.com:6379 failed after 11 failures.Last Error : (1) Connection timed out [] []
+[2024-02-19T12:58:50.162408+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T12:59:32.140263+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T12:59:48.536322+00:00] main.ERROR: SQLSTATE[HY000] [2002] Connection timed out [] []
+[2024-02-19T12:59:57.704469+00:00] main.ERROR: SQLSTATE[HY000] [2002] Connection timed out [] []
+[2024-02-19T13:00:32.135089+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:00:57.783386+00:00] main.ERROR: SQLSTATE[HY000] [2002] Connection timed out [] []
+[2024-02-19T13:01:32.046452+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:02:31.922864+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:03:32.780670+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:04:32.643778+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:05:32.500274+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:06:32.359460+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:07:32.270201+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:08:32.134700+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:09:27.897778+00:00] main.ERROR: SQLSTATE[HY000] [2002] Connection timed out [] []
+[2024-02-19T13:09:32.006878+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:10:31.935669+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:11:32.802801+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:12:32.680671+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:13:32.547575+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:14:32.415408+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:15:32.360787+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:16:32.245710+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:17:32.181846+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:18:32.044679+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-19T13:19:22.168932+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-19T13:19:22.189321+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-19T13:19:22.189501+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-19T13:19:22.189558+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-19T13:19:22.189598+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-19T13:19:22.189634+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-19T13:19:22.189670+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-19T13:19:22.189705+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-19T13:19:22.189738+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-19T13:19:22.189779+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-19T13:19:22.189818+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-19T13:19:22.189852+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-19T13:19:22.189890+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-19T13:19:22.189924+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-19T13:19:22.189962+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-19T13:19:22.189997+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-19T13:19:22.190030+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-19T13:19:22.190062+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-19T13:19:22.190135+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-19T13:19:22.190168+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-19T13:19:22.190205+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-19T13:19:22.190239+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-19T13:19:22.190272+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-19T13:19:22.190304+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-19T13:19:22.190337+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-19T13:19:22.190376+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-19T13:19:22.190409+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-19T13:19:22.190442+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-19T13:19:22.190475+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-19T13:19:22.190512+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-19T13:19:22.190545+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-19T13:19:22.190578+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-19T13:19:22.190612+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-19T13:19:22.190645+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-19T13:19:22.190678+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-19T13:19:22.190715+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-19T13:19:22.190749+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-19T13:19:22.190790+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-19T13:19:22.190828+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-19T13:19:22.190863+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-19T13:19:22.190901+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-19T13:19:22.190935+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-19T13:19:22.190972+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-19T13:19:22.191010+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-19T13:19:22.191044+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-19T13:19:22.191077+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-19T13:19:22.191115+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-19T13:19:22.191148+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-19T13:19:22.191186+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-19T13:19:22.191223+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-19T13:19:22.191257+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-19T13:19:22.191290+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-19T13:19:22.191323+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-19T13:19:22.191356+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-19T13:19:22.191389+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-19T13:19:22.191422+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-19T13:19:22.191459+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-19T13:19:22.191498+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-19T13:19:22.191532+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-19T13:19:22.191570+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-19T13:19:22.191603+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-19T13:19:22.191636+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-19T13:19:22.191674+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-19T13:19:22.191708+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-19T13:19:22.191741+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-19T13:19:22.191778+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-19T13:19:22.191816+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-19T13:19:22.191849+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-19T13:19:22.191887+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-19T13:19:22.191920+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-19T13:19:22.191953+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-19T13:19:22.192025+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-19T13:19:22.192063+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-19T13:19:22.192097+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-19T13:19:22.192136+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-19T13:19:22.192170+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-19T13:19:22.192203+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-19T13:19:22.192237+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-19T13:19:22.192270+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-19T13:19:22.192308+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-19T13:19:22.192341+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-19T13:19:22.192374+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-19T13:19:22.192407+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-19T13:19:22.192439+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-19T13:19:22.192472+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-19T13:19:22.192510+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-19T13:19:22.192544+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-19T13:19:22.192577+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-19T13:19:22.192609+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-19T13:19:22.192642+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-19T13:19:22.192674+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-19T13:19:22.192707+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-19T13:19:22.192740+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-19T13:19:22.192777+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-19T13:19:22.192810+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-19T13:19:22.192843+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-19T13:19:22.192876+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-19T13:19:22.192913+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-19T13:19:22.192947+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-19T13:19:22.192980+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-19T13:19:22.193013+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-19T13:19:22.193046+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-19T13:19:22.193079+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-19T13:19:22.193112+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-19T13:19:22.193151+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-19T13:19:22.193185+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-19T13:19:22.193219+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-19T13:19:22.193251+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-19T13:19:22.193285+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-19T13:19:22.193318+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-19T13:19:22.193352+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-19T13:19:22.193390+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-19T13:19:22.193424+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-19T13:19:22.193457+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-19T13:19:22.193505+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-19T13:19:22.193540+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-19T13:19:22.193573+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-19T13:19:22.193607+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-19T13:19:22.193641+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-19T13:19:22.193679+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-19T13:19:22.193712+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-19T13:19:22.193750+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-19T13:19:22.193783+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-19T13:19:22.193817+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-19T13:19:22.193849+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-19T13:21:34.435636+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-19T13:21:34.438520+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-19T13:21:34.438648+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-19T13:21:34.438700+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-19T13:21:34.438738+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-19T13:21:34.438774+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-19T13:21:34.438810+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-19T13:21:34.438844+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-19T13:21:34.438878+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-19T13:21:34.438918+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-19T13:21:34.438959+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-19T13:21:34.438993+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-19T13:21:34.439045+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-19T13:21:34.439081+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-19T13:21:34.439122+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-19T13:21:34.439156+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-19T13:21:34.439189+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-19T13:21:34.439222+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-19T13:21:34.439255+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-19T13:21:34.439287+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-19T13:21:34.439325+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-19T13:21:34.439358+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-19T13:21:34.439391+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-19T13:21:34.439423+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-19T13:21:34.439456+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-19T13:21:34.439494+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-19T13:21:34.439528+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-19T13:21:34.439561+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-19T13:21:34.439593+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-19T13:21:34.439631+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-19T13:21:34.439664+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-19T13:21:34.439697+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-19T13:21:34.439730+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-19T13:21:34.439763+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-19T13:21:34.439796+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-19T13:21:34.439834+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-19T13:21:34.439868+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-19T13:21:34.439902+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-19T13:21:34.439939+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-19T13:21:34.440015+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-19T13:21:34.440063+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-19T13:21:34.440098+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-19T13:21:34.440136+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-19T13:21:34.440175+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-19T13:21:34.440209+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-19T13:21:34.440242+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-19T13:21:34.440287+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-19T13:21:34.440322+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-19T13:21:34.440360+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-19T13:21:34.440399+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-19T13:21:34.440433+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-19T13:21:34.440466+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-19T13:21:34.440499+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-19T13:21:34.440532+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-19T13:21:34.440565+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-19T13:21:34.440598+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-19T13:21:34.440636+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-19T13:21:34.440675+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-19T13:21:34.440708+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-19T13:21:34.440746+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-19T13:21:34.440780+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-19T13:21:34.440812+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-19T13:21:34.440850+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-19T13:21:34.440884+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-19T13:21:34.440918+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-19T13:21:34.440956+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-19T13:21:34.440995+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-19T13:21:34.441029+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-19T13:21:34.441067+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-19T13:21:34.441101+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-19T13:21:34.441134+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-19T13:21:34.441172+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-19T13:21:34.441206+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-19T13:21:34.441239+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-19T13:21:34.441277+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-19T13:21:34.441312+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-19T13:21:34.441344+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-19T13:21:34.441377+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-19T13:21:34.441410+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-19T13:21:34.441448+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-19T13:21:34.441488+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-19T13:21:34.441522+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-19T13:21:34.441555+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-19T13:21:34.441588+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-19T13:21:34.441634+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-19T13:21:34.441673+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-19T13:21:34.441708+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-19T13:21:34.441741+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-19T13:21:34.441774+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-19T13:21:34.441807+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-19T13:21:34.441840+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-19T13:21:34.441873+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-19T13:21:34.441906+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-19T13:21:34.441945+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-19T13:21:34.441978+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-19T13:21:34.442012+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-19T13:21:34.442045+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-19T13:21:34.442084+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-19T13:21:34.442118+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-19T13:21:34.442151+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-19T13:21:34.442184+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-19T13:21:34.442217+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-19T13:21:34.442252+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-19T13:21:34.442285+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-19T13:21:34.442318+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-19T13:21:34.442352+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-19T13:21:34.442385+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-19T13:21:34.442418+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-19T13:21:34.442451+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-19T13:21:34.442485+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-19T13:21:34.442519+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-19T13:21:34.442558+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-19T13:21:34.442593+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-19T13:21:34.442633+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-19T13:21:34.442671+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-19T13:21:34.442704+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-19T13:21:34.442738+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-19T13:21:34.442772+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-19T13:21:34.442805+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-19T13:21:34.442843+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-19T13:21:34.442877+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-19T13:21:34.442915+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-19T13:21:34.442949+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-19T13:21:34.442982+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-19T13:21:34.443015+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-19T14:00:03.474495+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"Handshake request failed."}. Content-Type: application/json; charset=UTF-8 [] []
