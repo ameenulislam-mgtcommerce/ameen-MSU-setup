@@ -1,0 +1,442 @@
+[2024-02-16T09:59:36.819864+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.821150+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.821998+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.822644+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.823268+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.824093+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.824779+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.825523+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.826252+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.826861+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.827526+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.905896+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.906271+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:36.906827+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:41.814612+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:41.814781+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["user_assigned_role"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:41.873533+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:41.879598+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.070778+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.199391+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.204616+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.204800+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.204955+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.268130+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.268509+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.268690+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.268826+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.271859+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.275027+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.318565+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.318968+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.319114+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.319229+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.329258+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.329484+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.329605+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.329801+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.339831+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.340108+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.340272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.340426+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.350061+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.350272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.350432+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.350583+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.359360+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.359584+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.359699+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.359902+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.368769+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.369000+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.369158+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.369307+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.378434+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.378749+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.379041+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.379183+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.387661+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.387956+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.388113+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.388238+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.397310+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.397572+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.397722+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.397837+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.415043+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.415313+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.415468+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.415582+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.423411+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.423626+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.423817+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.424029+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.431055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.431258+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.431376+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.431534+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.438707+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.438915+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.439069+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.439182+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.445823+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.446018+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.446162+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.446285+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.453045+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.453245+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.453354+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.453454+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.460403+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.460680+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.460863+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.461017+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.468104+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.468347+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.468546+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.468697+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.475729+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.475927+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.476043+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.476191+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.499682+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.499867+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.500068+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.500203+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.506886+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.507082+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.507192+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.507296+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.513865+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.514070+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.514190+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.514334+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.533355+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.533558+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.533713+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.533852+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.591020+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.591217+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.591386+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.591503+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.597486+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.597677+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.597821+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.597961+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.603839+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.604033+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.604185+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.604322+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.610194+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.610392+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.610512+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.610695+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.627272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.627484+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.627665+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.627794+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.633422+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.633609+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.633722+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.633823+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.640225+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.640414+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.640617+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.640764+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.647059+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.647247+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.647398+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.647532+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.653754+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.653941+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.654088+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.654228+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.660826+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.661032+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.661154+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.661302+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.818239+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.845101+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.853416+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.858826+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.891599+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.938246+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:42.944771+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:43.072022+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:44.421790+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c_p_1","cat_c"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:44.440636+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c","cat_c_p_1"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:44.457828+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":{"0":"cat_c_2","1":"cat_c_p_2","2":"cat_c_p_1","4":"cat_c"},"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:44.458234+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_2","cat_c_p_1","cat_c_p_2","cat_c"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.506740+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c_2"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.741984+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.742214+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.742432+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.742955+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2024-02-16T09:59:45.744134+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2024-02-16T09:59:45.751698+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.751884+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.752126+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.752342+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2024-02-16T09:59:45.752616+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2024-02-16T09:59:45.882611+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.887670+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.893324+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.898613+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.903279+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.935878+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.961589+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.973002+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:45.976379+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:46.093513+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:46.436135+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2024-02-16T09:59:47.347678+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_1"}} []
+[2024-02-16T09:59:47.347809+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_2"}} []
+[2024-02-16T09:59:47.347868+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_3"}} []
+[2024-02-16T09:59:47.347921+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_4"}} []
+[2024-02-16T09:59:47.347966+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_5"}} []
+[2024-02-16T09:59:47.569707+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2024-02-16T09:59:47.569857+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2024-02-16T09:59:47.569923+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2024-02-16T09:59:47.569992+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2024-02-16T09:59:47.570045+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2024-02-16T09:59:47.610997+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.611494+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.612271+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.807902+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.808264+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.809078+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.809795+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.810527+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.812204+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.812495+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.813442+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.814005+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.814823+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.815493+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.816303+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.816940+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-02-16T09:59:47.817649+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-02-16T10:00:25.750611+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T10:00:25.852326+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T10:00:26.752347+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-02-16T10:00:42.070057+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2024-02-16T10:00:42.074253+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2024-02-16T10:15:04.238148+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"https://ameen.mgtcommerce.com/index.php/admin/admin/index/index/key/c01f9fb68b8649f953b75ac58e0ecbdf845caeba2cb920cb01ba8a40f4b1fbb9/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
+[2024-02-16T10:15:04.385798+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"https://ameen.mgtcommerce.com/index.php/admin/admin/index/index/key/c01f9fb68b8649f953b75ac58e0ecbdf845caeba2cb920cb01ba8a40f4b1fbb9/","invalidateInfo":{"tags":["PB_EDITOR_CONFIG","CONFIG"],"mode":"matchingTag"}} []
+[2024-02-16T10:15:04.431064+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-16T10:15:04.446578+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-16T10:15:04.446806+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-16T10:15:04.446881+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-16T10:15:04.446937+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-16T10:15:04.446987+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-16T10:15:04.447038+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-16T10:15:04.447086+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-16T10:15:04.447133+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-16T10:15:04.447194+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-16T10:15:04.447255+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-16T10:15:04.447303+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-16T10:15:04.447361+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-16T10:15:04.447410+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-16T10:15:04.447467+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-16T10:15:04.447516+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-16T10:15:04.447563+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-16T10:15:04.447609+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-16T10:15:04.447675+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-16T10:15:04.447723+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-16T10:15:04.447783+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-16T10:15:04.447831+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-16T10:15:04.447878+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-16T10:15:04.447924+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-16T10:15:04.447972+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-16T10:15:04.448030+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-16T10:15:04.448078+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-16T10:15:04.448125+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-16T10:15:04.448171+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-16T10:15:04.448228+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-16T10:15:04.448288+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-16T10:15:04.448335+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-16T10:15:04.448382+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-16T10:15:04.448428+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-16T10:15:04.448476+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-16T10:15:04.448542+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-16T10:15:04.448613+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-16T10:15:04.448682+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-16T10:15:04.448732+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-16T10:15:04.448779+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-16T10:15:04.448839+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-16T10:15:04.448887+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-16T10:15:04.448945+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-16T10:15:04.448993+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-16T10:15:04.449050+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-16T10:15:04.449098+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-16T10:15:04.449154+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-16T10:15:04.449203+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-16T10:15:04.449259+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-16T10:15:04.449307+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-16T10:15:04.449364+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-16T10:15:04.449411+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-16T10:15:04.449467+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-16T10:15:04.449533+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-16T10:15:04.449583+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-16T10:15:04.449629+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-16T10:15:04.449676+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-16T10:15:04.449723+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-16T10:15:04.449770+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-16T10:15:04.449817+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-16T10:15:04.449874+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-16T10:15:04.449932+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-16T10:15:04.449979+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-16T10:15:04.450036+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-16T10:15:04.450093+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-16T10:15:04.450141+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-16T10:15:04.450187+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-16T10:15:04.450243+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-16T10:15:04.450291+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-16T10:15:04.450344+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-16T10:15:04.450401+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-16T10:15:04.450449+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-16T10:15:04.450495+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-16T10:15:04.450542+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-16T10:15:04.450589+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-16T10:15:04.450880+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-16T10:15:04.450946+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-16T10:15:04.450995+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-16T10:15:04.451042+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-16T10:15:04.451090+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-16T10:15:04.451136+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-16T10:15:04.451198+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-16T10:15:04.451246+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-16T10:15:04.451472+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-16T10:15:04.451524+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-16T10:15:04.451571+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-16T10:15:04.451749+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-16T10:15:04.451806+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-16T10:15:04.451854+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-16T10:15:04.451925+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-16T10:15:04.451976+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-16T10:15:04.452023+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-16T10:15:04.452069+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-16T10:15:04.452282+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-16T10:15:04.452361+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-16T10:15:04.452412+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-16T10:15:04.452460+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-16T10:15:04.452508+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-16T10:15:04.452556+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-16T10:15:04.452626+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-16T10:15:04.452677+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-16T10:15:04.452725+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-16T10:15:04.452782+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-16T10:15:04.452829+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-16T10:15:04.452877+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-16T10:15:04.453703+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-16T10:15:04.453758+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-16T10:15:04.453809+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-16T10:15:04.453881+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-16T10:15:04.453932+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-16T10:15:04.453980+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-16T10:15:04.454257+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-16T10:15:04.454315+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-16T10:15:04.454365+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-16T10:15:04.454413+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-16T10:15:04.454473+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-16T10:15:04.454523+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-16T10:15:04.454570+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-16T10:15:04.454641+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-16T10:15:04.455134+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-16T10:15:04.455196+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-16T10:15:04.455259+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-16T10:15:04.455308+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-16T10:15:04.455356+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-16T10:15:04.455405+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-16T10:17:37.043670+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-02-16T10:18:53.485189+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 72.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 72.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% < 1 sec 74.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% < 1 sec 74.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 19 secs 108.0 MiB
+Service data attributes generation... 2/9 [======>---------------------]  22% 19 secs 108.0 MiB
+Service data attributes generation... 3/9 [=========>------------------]  33% 19 secs 108.0 MiB
+Application code generator... 3/9 [=========>------------------]  33% 19 secs 108.0 MiB
+Application code generator... 4/9 [============>---------------]  44% 31 secs 120.0 MiB
+Interceptors generation... 4/9 [============>---------------]  44% 31 secs 120.0 MiB
+Interceptors generation... 5/9 [===============>------------]  55% 48 secs 154.0 MiB
+Area configuration aggregation... 5/9 [===============>------------]  55% 48 secs 154.0 MiB
+Area configuration aggregation... 6/9 [==================>---------]  66% 54 secs 254.0 MiB
+Interception cache generation... 6/9 [==================>---------]  66% 54 secs 254.0 MiB
+Interception cache generation... 7/9 [=====================>------]  77% 1 min 252.0 MiB
+App action list generation... 7/9 [=====================>------]  77% 1 min 252.0 MiB
+App action list generation... 8/9 [========================>---]  88% 1 min 252.0 MiB
+Plugin list generation... 8/9 [========================>---]  88% 1 min 252.0 MiB
+Plugin list generation... 9/9 [============================] 100% 1 min 252.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-02-16T10:18:57.088293+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-02-16T10:19:23.297612+00:00] main.INFO: /usr/bin/php8.2 -f /home/cloudpanel/htdocs/ameen.mgtcommerce.com/bin/magento setup:static-content:deploy -f en_US 2>&1
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2182              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            185/2182            ==>------------------------- 8%     1 sec
+[1A[2Kfrontend/Magento/blank/en_US            812/2182            ==========>----------------- 37%    2 secs
+[1A[2Kfrontend/Magento/blank/en_US            1825/2182           =======================>---- 83%    3 secs
+[1A[2Kfrontend/Magento/blank/en_US            2101/2182           ==========================>- 96%    4 secs
+[1A[2Kfrontend/Magento/blank/en_US            2103/2182           ==========================>- 96%    6 secs
+[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         395/2881            ===>------------------------ 13%    1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1330/2881           ============>--------------- 46%    2 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2364/2881           ======================>----- 82%    3 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2731/2881           ==========================>- 94%    7 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2746/2881           ==========================>- 95%    8 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             802/2198            ==========>----------------- 36%    1 sec
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2098/2198           ==========================>- 95%    2 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2101/2198           ==========================>- 95%    3 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2103/2198           ==========================>- 95%    5 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2104/2198           ==========================>- 95%    6 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2198/2198           ============================ 100%   6 secs
+
+Execution time: 24.029479026794 [] []
